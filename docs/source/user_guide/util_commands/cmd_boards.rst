@@ -44,6 +44,8 @@ UP5K
 
 * `UPDuino v1.0 <http://gnarlygrey.atspace.cc/development-platform.html#upduino>`_
 * `UPDuino v2.0 <http://gnarlygrey.atspace.cc/development-platform.html#upduino_v2>`_
+* `UPDuino v3.0 <https://github.com/tinyvision-ai-inc/UPduino-v3.0>`_
+* `UPDuino v3.1 <https://github.com/tinyvision-ai-inc/UPduino-v3.0>`_
 * `iCEBreaker <https://github.com/icebreaker-fpga/icebreaker>`_
 * `iCEBreaker bitsy <https://github.com/icebreaker-fpga/icebreaker>`_
 * `FPGA 101 Workshop Badge Board <https://github.com/mmicko/workshop_badge>`_
@@ -104,6 +106,9 @@ Examples
   kefir            iCE40-HX4K-TQ144     hx    8k    tq144:4k
   upduino          iCE40-UP5K-SG48      up    5k    sg48
   upduino2         iCE40-UP5K-SG48      up    5k    sg48
+  upduino3         iCE40-UP5K-SG48      up    5k    sg48
+  upduino3.1       iCE40-UP5K-SG48      up    5k    sg48
+  
 
 2. Show all available FPGAs
 
